@@ -1,0 +1,16 @@
+.myPosts,
+.allPosts {
+  padding: 10px;
+}
+
+.myPosts__title {
+  margin-bottom: 5px;
+}
+
+.myPosts__new {
+  max-width: 50%;
+}
+
+.myPosts__new textarea {
+  width: 100%;
+}

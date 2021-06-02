@@ -1,0 +1,17 @@
+.post {
+  margin-bottom: 5px;
+}
+
+.likesCounter {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+.post__img {
+  display: block;
+  width: 20px;
+  height: 20px;
+}

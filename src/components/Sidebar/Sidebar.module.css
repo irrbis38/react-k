@@ -1,0 +1,30 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(250, 219, 190);
+}
+
+.nav__menu {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.nav__item {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s linear;
+}
+
+.nav__link:hover {
+  color: darkorchid;
+}
+
+.activeLink {
+  color: darkslateblue;
+  font-weight: bold;
+}

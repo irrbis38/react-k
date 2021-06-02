@@ -1,0 +1,19 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dlg,
+.msg {
+  padding: 10px;
+}
+
+.dlgItem:hover {
+  color: darkorchid;
+  cursor: pointer;
+}
+
+.activeItem {
+  color: darkslateblue;
+  font-weight: bold;
+}
