@@ -1,0 +1,9 @@
+.profileInfo__mainPic img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.profileInfo__description {
+  padding: 10px;
+}

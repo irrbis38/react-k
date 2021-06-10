@@ -3,17 +3,22 @@
   grid-template-columns: 2fr 10fr;
 }
 
-.dlg,
+.dialog,
 .msg {
   padding: 10px;
 }
 
-.dlgItem:hover {
+.dialogItem:hover a{
   color: darkorchid;
   cursor: pointer;
 }
 
-.activeItem {
+.dialogItem a {
+  color: #000;
+  text-decoration: none;
+}
+
+.activeItem a{
   color: darkslateblue;
   font-weight: bold;
 }
