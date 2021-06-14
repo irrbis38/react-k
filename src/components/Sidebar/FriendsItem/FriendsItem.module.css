@@ -1,0 +1,16 @@
+.friends__item {
+  width: 30%;
+  text-align: center;
+}
+
+.friends__icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  background-color: chocolate;
+}
+
+.friends__name {
+  font-size: 14px;
+}

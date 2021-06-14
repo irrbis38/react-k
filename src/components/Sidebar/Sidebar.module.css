@@ -28,3 +28,21 @@
   color: darkslateblue;
   font-weight: bold;
 }
+
+.friends {
+  color: #333;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.friends__title {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.friends__container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
